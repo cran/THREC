@@ -1,0 +1,11 @@
+ea51f2fa4fab05c498192815ec54cd1f *DESCRIPTION
+2a19c8ea1c8bfa626f3783a1f78fdaff *NAMESPACE
+d85e57ee823540e913959f34c754c658 *R/THREC.R
+66ffb8028128043a1de0ffc3f0be177e *data/Treeht.rda
+10d5425cb9d6b2eccdbfc76857109631 *data/broad.rda
+f0795938bd9e78567566698a0f89d717 *man/Treeht.Rd
+521e57e4a64d6180f8b5abfc355e8de7 *man/broad.Rd
+821e26705afbdf63e992f92522560617 *man/broadleaves.Rd
+064c1d2c209b86ee091b82bfee1980a2 *man/conifers.Rd
+91d50dcb90c93bb05d95d4cf3f9bb3c4 *man/main_species.Rd
+824cdc6d8b52c8bc6702d5f936393983 *man/species_specific.Rd
